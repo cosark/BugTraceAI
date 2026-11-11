@@ -51,6 +51,7 @@ WEB can connect to the CLI engine for web scans and the API engine for API-targe
 - [Demo Report](#demo-report)
 - [CI/CD Integration Proposal](#cicd-integration-proposal)
 - [Quick Start](#quick-start)
+- [One-Click Deploy](#one-click-deploy)
 - [Documentation](#documentation)
 - [Community & Support](#community--support)
 
@@ -358,6 +359,12 @@ complete configuration step.
 
 Component entry points suggest their own module. A suggestion only sets the
 initial checkboxes; review the exact modules before installation.
+
+---
+
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/BugTraceAI/)
 
 ---
 
